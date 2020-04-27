@@ -1,7 +1,7 @@
 package models
 
 import (
-	"tranzo/utils"
+	"tranzo/src/utils"
 
 	"gopkg.in/mgo.v2/bson"
 )
